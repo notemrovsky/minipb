@@ -125,7 +125,7 @@ binary = convert_json_to_protobuf_hex(data, spotify_schema)
 
 ## Inspiration
 
-Inspired by work from [@xtekky](https://github.com/xtekky) [@project]([https://github.com/xtekky](https://github.com/onlpx/pyproto)). 
+Inspired by work from [@xtekky](https://github.com/xtekky) [@project]([https://github.com/xtekky](https://github.com/onlpx/pyproto)).
 
 ## Contact
 
