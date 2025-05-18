@@ -2,7 +2,7 @@
 
 # Minimal protobuf encoder for specific use cases - avoids pulling in the full library
 
-def encode_varint(value):
+def encode_varint(value): # https://github.com/protocolbuffers/protobuf/blob/main/python/google/protobuf/internal/encoder.py
     result = b''
     while value >= 0x80:
         result += bytes([(value & 0x7F) | 0x80])
