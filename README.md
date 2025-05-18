@@ -12,7 +12,7 @@ A lightweight, zero-dependency protobuf encoder for Python that lets you convert
 
 ## Installation
 
-```bash
+
 git clone https://github.com/emrovsky/minipb.git
 cd minipb
 ```
